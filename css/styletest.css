@@ -8,6 +8,10 @@ body{
     background-image: url(https://www.walldevil.com/wallpapers/w03/872182-mountains-nature-roads.jpg);
 }
 
+h1{
+    border 3px blue dashed;
+}
+
 h2{
     color: yellow;
     background: black;
